@@ -1,4 +1,4 @@
-### Hi, I', Abi
+# Hi, I'm Abi
 
 - 👀 Math/CS @ Harvard
 - Quant Trader @ Akuna
