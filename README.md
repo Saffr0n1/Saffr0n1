@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Saffr0n1
+### Hi, I', Abi
+
 - 👀 Math/CS @ Harvard
+- Quant Trader @ Akuna
 - Always down for some fun problems
 
 <!---
