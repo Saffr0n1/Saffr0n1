@@ -1,7 +1,7 @@
 # Hi, I'm Abi
 
 - 👀 Math/CS @ Harvard
-- Quant Trader @ Akuna
+- Quant Trader @ SIG
 - Always down for some fun problems
 
 <!---
