@@ -1,6 +1,6 @@
 # Hi, I'm Abi
 
-- 👀 Math/CS @ Harvard
+- Math/CS @ Harvard
 - Quant Trader @ SIG
 - Always down for some fun problems
 
